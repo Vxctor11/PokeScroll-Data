@@ -4220,5 +4220,7 @@
       "official_artwork": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
       "sound": "https://play.pokemonshowdown.com/audio/cries/mewtwo.mp3"
     }
-  ]
+  ],
+  "pokedex": [],
+  "party": []
 }
